@@ -1,0 +1,32 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ScreenChanger">
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="PlayOneShot"/>
+			<method name="PlayOneShot"/>
+		</type>
+	</assembly>
+</linker>

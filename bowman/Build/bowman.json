@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "bowman.data.unityweb",
+"asmCodeUrl": "bowman.asm.code.unityweb",
+"asmMemoryUrl": "bowman.asm.memory.unityweb",
+"asmFrameworkUrl": "bowman.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
